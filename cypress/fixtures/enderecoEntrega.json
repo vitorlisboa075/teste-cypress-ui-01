@@ -1,0 +1,35 @@
+[
+    {
+        "nome": "Camila",
+        "sobrenome": "Júlia",
+        "empresa": "EBAC",
+        "endereco": "Rua Teste",
+        "numero": "2045",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "01000100"
+    },
+    {
+        "nome": "Ayrton",
+        "sobrenome": "Clapton",
+        "empresa": "EBAC",
+        "endereco": "Av. Teste",
+        "numero": "2049",
+        "pais": "Brasil",
+        "cidade": "Vila Bela da Santíssima Trindade",
+        "estado": "Mato Grosso",
+        "cep": "01000101"
+    },
+    {
+        "nome": "Paul",
+        "sobrenome": "Harrisson",
+        "empresa": "EBAC",
+        "endereco": "Jardim Teste",
+        "numero": "20450A",
+        "pais": "Brasil",
+        "cidade": "Brasília",
+        "estado": "Distrito Federal",
+        "cep": "01000108"
+    }
+]
