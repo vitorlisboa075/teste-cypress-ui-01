@@ -15,6 +15,12 @@ class CadastroPage {
     cy.get('#reg_password').type(senha);
   }
 
+  preencherFormulario({ nome, email, senha } = {}) {
+    if (nome) this.preencherNome(nome);
+    if (email) this.preencherEmail(email);
+    if (senha) this.preencherSenha(senha);
+  }
+
   clicarRegistrar() {
     cy.get(':input[name="register"]').click();
   }
